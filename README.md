@@ -9,3 +9,5 @@ The document provides a structured introduction to the field, focusing on how en
 Environmental epidemiology studies the relationship between environmental exposures—such as air pollution, water contamination, and climate factors—and health outcomes in human populations. It integrates concepts from epidemiology, environmental science, toxicology, and biostatistics to address critical public health questions.
 
 Click on this link: https://rajeshmajumder97.github.io/EnvEpi/
+
+For other posts: https://rajeshmajumderblog.netlify.app/
